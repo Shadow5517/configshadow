@@ -128,5 +128,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co
 vless://FREE@bm.xq-vpn.com:80?mode=auto&path=%2F&security=&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20
 vless://4311bd3f-4f66-4538-a624-221b87690b2c@mjtbknetmkhremge.ordak.qzz.io:443?path=%2Ffl%3Fed&security=tls&encryption=none&insecure=0&host=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=mjtbknetmkhremge.ordak.qzz.io#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Channel%20id%3A%20%40ShadowProxy66%20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjU2YWVhYS04ZTJkLTRiZGYtYjFkNy0yMzNlY2NhMTVmNTY@namrcg001640lrm.cybervena.com:50099#Channel%20id%3A%20%40ShadowProxy66%20
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#Channel%20id%3A%20%40ShadowProxy66%20
